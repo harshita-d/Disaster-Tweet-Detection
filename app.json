@@ -1,8 +1,6 @@
 {
-  "buildpacks": [
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-python.git"
-    }
+  "python": [
+    "heroku/python-getting-started",
+    "sharpstone/python_default"
   ]
 }
-
