@@ -17,7 +17,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 ### Code:
 
 
-Training of the model is provided in <mark>Fake_disaster_tweet_ditection.ipynb</mark> and the dataset is available in <mark>train.csv</mark> file. Downloaded <mark>count.pkl</mark> and <mark>tweet.pkl</mark> files will be used for deployment. You will be required <mark>app.py</mark> Python file to run the template. Connect this repository to <mark>Heroku: Cloud Application Platform</mark> to deploy.  
+Training of the model is provided in [Fake_disaster_tweet_ditection.ipynb](https://github.com/harshita-d/Disaster-Tweet-Detection/blob/master/Fake_disaster_tweet_ditection.ipynb) and the dataset is available in [train.csv](https://github.com/harshita-d/Disaster-Tweet-Detection/blob/master/train.csv) file. Downloaded [count.pkl](https://github.com/harshita-d/Disaster-Tweet-Detection/blob/master/count.pkl) and [tweet.pkl](https://github.com/harshita-d/Disaster-Tweet-Detection/blob/master/tweet.pkl) files will be used for deployment. You will be required [app.py](https://github.com/harshita-d/Disaster-Tweet-Detection/blob/master/app.py) Python file to run the template. Connect this repository to [Heroku: Cloud Application Platform](https://dashboard.heroku.com/apps) to deploy.  
 
 ### Model used:
 - Multinomial Naive Bayes: The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g., word counts for text classification).
