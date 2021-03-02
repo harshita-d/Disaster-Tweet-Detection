@@ -27,8 +27,8 @@ Training of the model is provided in <mark>Fake_disaster_tweet_ditection.ipynb</
 
 ### Fake Disaster Tweet Detection:
 
-![](1.png)
+![](/images/1.png)
 
-![](2.png)
+![](/images/2.png)
 
-![](3.png)
+![](/images/3.png)
