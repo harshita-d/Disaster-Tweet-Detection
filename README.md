@@ -34,4 +34,4 @@ Training of the model is provided in [Fake_disaster_tweet_ditection.ipynb](https
 ![](/images/3.png)
 
 ### Acknowledgements:
-- Some part of the code uses code from https://github.com/MohamedAbdullah55/Fake-Disaster-Tweet-Detiction-Web-App
+- Some part of the project uses code from https://github.com/MohamedAbdullah55/Fake-Disaster-Tweet-Detiction-Web-App
